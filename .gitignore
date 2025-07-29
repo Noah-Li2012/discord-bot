@@ -1,0 +1,25 @@
+# Hide secret token file
+.env
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VSCode settings (optional)
+.vscode/
+
+# MacOS junk
+.DS_Store
+
+# Logs
+*.log
+
+# Render deploy cache (optional)
+.cache/
